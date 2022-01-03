@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Text;
 using SQLite;
-using System;
 
 namespace Tivadar_Ana_Maria_Lab10.Models
 {
